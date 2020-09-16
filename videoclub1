@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1, group-title="TV" tvg-logo="https://www.filmaffinity.com/es/film425269.html", Carmen y Lola
+#EXTINF: -1, group-title="TV" tvg-logo= "https://cine.coveralia.com/caratulas/carmen-y-lola-cartel.php", Carmen y Lola
 http://fanta.56k.es/peliculas/Carmen_y_Lola-2018-Spanish-Fanta.mkv
 
 
