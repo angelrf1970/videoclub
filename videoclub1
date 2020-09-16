@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF: -1, group-title="TV" tvg-logo="https://github.com/angelrf1970/videoclub/blob/master/caratulas%20de%20peliculas/Carmen%20y%20Lola.jpg", Carmen y Lola
+#EXTINF: -1, tvg-logo="https://github.com/angelrf1970/videoclub/blob/master/caratulas%20de%20peliculas/Carmen%20y%20Lola.jpg", Carmen y Lola
 http://fanta.56k.es/peliculas/Carmen_y_Lola-2018-Spanish-Fanta.mkv
+
+
 
 
 
